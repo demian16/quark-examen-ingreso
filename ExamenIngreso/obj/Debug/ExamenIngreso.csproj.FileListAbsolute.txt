@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\ExamenIngreso.exe.config
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\ExamenIngreso.exe
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\ExamenIngreso.pdb
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\ExamenIngreso.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\ExamenIngreso.Form1.resources
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\ExamenIngreso.FormHistorial.resources
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\ExamenIngreso.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\ExamenIngreso.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\ExamenIngreso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\ExamenIngreso.exe
+C:\Users\Usuario\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\ExamenIngreso.pdb
